@@ -13,11 +13,11 @@ That's why we are hiring you. We need you to write code that will create a table
 You can handle this... right? The planet Earth needs to know what we have found!
 
 ## Enter Level 1
-https://github.com/Jiuhe2020/javascript-challenge/tree/master/UFO-level-1
+https://github.com/Jiuhe2020/javascript-challenge/tree/master/UFO-level-1\
 Automatic Table and Date Search
 
 ## Enter Level 2
-https://github.com/Jiuhe2020/javascript-challenge/tree/master/UFO-level-2
+https://github.com/Jiuhe2020/javascript-challenge/tree/master/UFO-level-2\
 Multiple Search Categories
 
 ---
