@@ -19,7 +19,8 @@ https://github.com/Jiuhe2020/javascript-challenge/tree/master/UFO-level-1
 
 ## Enter Level 2
 Multiple Search Categories \
-![UFO-level-2](https://github.com/Jiuhe2020/javascript-challenge/tree/master/UFO-level-2)
+https://github.com/Jiuhe2020/javascript-challenge/tree/master/UFO-level-2
+![UFO-level-2](https://github.com/Jiuhe2020/javascript-challenge/blob/master/UFO-level-2/UFO-level-2.png)
 
 ---
 ### Copyright
