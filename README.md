@@ -3,22 +3,17 @@
 https://Jiuhe2020.github.io/javascript-challenge/
 
 ## Challenge Instructions
-
-WAKE UP SHEEPLE! The extra-terrestrial menace has come to Earth and we here at ALIENS-R-REAL have collected all of the eye-witness reports we could to prove it! All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.
-
-There is just one tiny problem though... our collection is too large to search through manually. Even our most dedicated followers are complaining that they are having trouble locating specific reports in this mess.
-
-That's why we are hiring you. We need you to write code that will create a table dynamically based upon a dataset we provide. We also need to allow our users to filter the table data for specific values. There's a catch though... we only use pure JavaScript, HTML, and CSS, and D3.js on our web pages. They are the only coding languages which can be trusted.
-
-You can handle this... right? The planet Earth needs to know what we have found!
+This project utilizes Javascript, HTML and CSS to demonstrate the use of Javascript to create an interactive website, specifically using D3.js to collect HTML form elements in the form of DOMs and adding event triggers to elements on the page filter the given dataset based on user entry. The dataset is a sample set of UFO sightings in the U.S. (the first two weeks of January 2010).
 
 ## Enter Level 1
-Automatic Table and Date Search \
+### Automatic Table and Date Search
+This site allows the user to enter a date in the date field and filter the table according to that date and display it on the page.
 https://github.com/Jiuhe2020/javascript-challenge/tree/master/UFO-level-1
 ![UFO-level-1](https://github.com/Jiuhe2020/javascript-challenge/blob/master/UFO-level-1/UFO-level-1.png)
 
 ## Enter Level 2
-Multiple Search Categories \
+### Multiple Search Categories
+This site allows multiple input tags, including Date, City, State, Country and Shape. The user can enter one or any number of these filters to return the filtered table displayed on the page.
 https://github.com/Jiuhe2020/javascript-challenge/tree/master/UFO-level-2
 ![UFO-level-2](https://github.com/Jiuhe2020/javascript-challenge/blob/master/UFO-level-2/UFO-level-2.png)
 
