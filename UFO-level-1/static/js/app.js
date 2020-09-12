@@ -55,5 +55,6 @@ function runEnter() {
     } else if (filteredData.length === 0) {
         // If no data found, display "No UFO Sighting found. Try again!"
         tbody.append("tr").text("No UFO Sighting found. Try again!");
+    }
     };
 };
