@@ -11,7 +11,7 @@ https://github.com/Jiuhe2020/javascript-challenge/tree/master/UFO-level-1
 ![UFO-level-1](https://github.com/Jiuhe2020/javascript-challenge/blob/master/UFO-level-1/UFO-level-1.png)
 
 ## Level 2: Multiple Search Categories
-This site allows multiple input tags, including Date, City, State, Country and Shape. The user can enter one or any number of these filters to return the filtered table displayed on the page. \
+This site allows multiple input tags, including Date, City, State, Country and Shape. The user can enter one or any combination of these filters to return the filtered table displayed on the page. \
 https://github.com/Jiuhe2020/javascript-challenge/tree/master/UFO-level-2
 ![UFO-level-2](https://github.com/Jiuhe2020/javascript-challenge/blob/master/UFO-level-2/UFO-level-2.png)
 
