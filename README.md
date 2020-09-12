@@ -15,12 +15,11 @@ You can handle this... right? The planet Earth needs to know what we have found!
 ## Enter Level 1
 Automatic Table and Date Search \
 https://github.com/Jiuhe2020/javascript-challenge/tree/master/UFO-level-1
-
+![UFO-level-1](https://github.com/Jiuhe2020/javascript-challenge/blob/master/UFO-level-1/UFO-level-1.png)
 
 ## Enter Level 2
 Multiple Search Categories \
-https://github.com/Jiuhe2020/javascript-challenge/tree/master/UFO-level-2
-
+![UFO-level-2](https://github.com/Jiuhe2020/javascript-challenge/tree/master/UFO-level-2)
 
 ---
 ### Copyright
