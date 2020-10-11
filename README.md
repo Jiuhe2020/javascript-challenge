@@ -1,4 +1,5 @@
 # JavaScript & DOM Manipulation
+![UFO](https://images04.military.com/sites/default/files/styles/full/public/2019-04/ufo-2400.jpg?itok=c7oVQRMN)
 ## Deployment Link
 https://Jiuhe2020.github.io/javascript-challenge/
 
