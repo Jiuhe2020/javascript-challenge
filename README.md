@@ -1,5 +1,6 @@
 # JavaScript & DOM Manipulation
 ![UFO](https://images04.military.com/sites/default/files/styles/full/public/2019-04/ufo-2400.jpg?itok=c7oVQRMN)
+
 ## Deployment Link
 https://Jiuhe2020.github.io/javascript-challenge/
 
@@ -9,12 +10,16 @@ This project utilizes Javascript, HTML5 and CSS3 to demonstrate the use of Javas
 ## Level 1: Automatic Table and Date Search
 This site allows the user to enter a date in the date field and filter the table according to that date and display it on the page. \
 https://github.com/Jiuhe2020/javascript-challenge/tree/master/UFO-level-1
-![UFO-level-1](https://github.com/Jiuhe2020/javascript-challenge/blob/master/UFO-level-1/UFO-level-1.png)
+<p align="center">
+  <img src="https://github.com/Jiuhe2020/javascript-challenge/blob/master/UFO-level-1/UFO-level-1.png">
+</p>
 
 ## Level 2: Multiple Search Categories
 This site allows multiple input tags, including Date, City, State, Country and Shape. The user can enter one or any combination of these filters to return the filtered table displayed on the page. \
 https://github.com/Jiuhe2020/javascript-challenge/tree/master/UFO-level-2
-![UFO-level-2](https://github.com/Jiuhe2020/javascript-challenge/blob/master/UFO-level-2/UFO-level-2.png)
+<p align="center">
+  <img src="https://github.com/Jiuhe2020/javascript-challenge/blob/master/UFO-level-2/UFO-level-2.png">
+</p>
 
 ---
 ### Copyright
