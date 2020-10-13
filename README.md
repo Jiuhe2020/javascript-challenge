@@ -11,14 +11,14 @@ This project utilizes Javascript, HTML5 and CSS3 to demonstrate the use of Javas
 This site allows the user to enter a date in the date field and filter the table according to that date and display it on the page. \
 https://github.com/Jiuhe2020/javascript-challenge/tree/master/UFO-level-1
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/javascript-challenge/blob/master/UFO-level-1/UFO-level-1.png">
+  <img src="https://github.com/Jiuhe2020/javascript-challenge/blob/master/UFO-level-1/UFO-level-1.png" height="80%" width="80%">
 </p>
 
 ## Level 2: Multiple Search Categories
 This site allows multiple input tags, including Date, City, State, Country and Shape. The user can enter one or any combination of these filters to return the filtered table displayed on the page. \
 https://github.com/Jiuhe2020/javascript-challenge/tree/master/UFO-level-2
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/javascript-challenge/blob/master/UFO-level-2/UFO-level-2.png">
+  <img src="https://github.com/Jiuhe2020/javascript-challenge/blob/master/UFO-level-2/UFO-level-2.png" height="80%" width="80%">
 </p>
 
 ---
